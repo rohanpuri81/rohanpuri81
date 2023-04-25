@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohanpuri81
 - 👀 I’m interested in full stack devlopment
 - 🌱 I’m currently learning backend devlopment
-- 💞️ I’m looking to for great workplace
+- 💞️ I’m looking for job in company with great workplace
 - 📫 How to reach me
 email    :  rohanpuri81@gmail.com
 phone no :  7058212023

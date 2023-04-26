@@ -4,7 +4,6 @@
 - 💞️ I’m looking for job in company with great workplace
 - 📫 How to reach me
 email    :  rohanpuri81@gmail.com
-phone no :  7058212023
 
 <!---
 rohanpuri81/rohanpuri81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

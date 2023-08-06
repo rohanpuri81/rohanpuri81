@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanpuri81
-- 👀 I’m interested in full stack devlopment
-- 🌱 I’m currently learning backend devlopment
+- 👀 I’m interested in front end devlopment
+- 🌱 I’m currently learning react&redux
 - 💞️ I’m looking for job in company with great workplace
 - 📫 How to reach me
 email    :  rohanpuri81@gmail.com

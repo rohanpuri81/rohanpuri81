@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rohanpuri81
 - 👀 I’m interested in front end devlopment
-- 🌱 I’m currently learning react&redux
-- 💞️ I’m looking for job in company with great workplace
+- 🌱 I’m React Native Developer At GuruCool Tech , Jaipur
 - 📫 How to reach me
 email    :  rohanpuri81@gmail.com
 

@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rohanpuri81
 - 👀 I’m interested in front end devlopment
 - 🌱 I’m React Native Developer At GuruCool Tech , Jaipur
-- 📫 How to reach me
-email    :  rohanpuri81@gmail.com
+- 📫 How to reach me   :  rohanpuri81@gmail.com
 
 <!---
 rohanpuri81/rohanpuri81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

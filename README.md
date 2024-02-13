@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanpuri81
 - 👀 I’m interested in front end devlopment
-- 🌱 I’m React Native Developer At GuruCool Tech , Jaipur
+- 🌱 I’m React Native Developer At Digikull Tech , Noida
 - 📫 How to reach me   :  rohanpuri81@gmail.com
 
 <!---

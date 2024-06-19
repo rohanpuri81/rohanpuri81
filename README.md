@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohanpuri81
 - 👀 I’m interested in front end devlopment
-- 🌱 I’m React Native Developer At Digikull Tech , Noida
+- 🌱 I’m Associate Software Engineer II At Techdome , Indore
 - 📫 How to reach me   :  rohanpuri81@gmail.com
 
 <!---
